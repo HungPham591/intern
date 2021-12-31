@@ -1,0 +1,81 @@
+{
+    "status": true,
+    "code": 200,
+    "data": {
+        "data": [
+            {
+                "id": "16085401907418",
+                "departmentCode": "MAYK-000",
+                "departmentName": "000",
+                "createUser": "Tôi là Quản lý sự cố"
+            },
+            {
+                "id": "yluvTiJokKytL3bVsMj1",
+                "departmentCode": "GD",
+                "departmentName": "Giám đốc",
+                "createUser": "Tôi là Quản lý sự cố"
+            },
+            {
+                "id": "16085366048835",
+                "departmentCode": "MAYK-aaa",
+                "departmentName": "new",
+                "createUser": "Tôi là Quản lý sự cố"
+            },
+            {
+                "id": "Hdt39VlXlGjNYt3837mX",
+                "departmentCode": "NS",
+                "departmentName": "Nhân sự",
+                "createUser": "yuh nart"
+            },
+            {
+                "id": "16062975705753",
+                "departmentCode": "MAYK-01",
+                "departmentName": "Phòng ban 1",
+                "createUser": "Admin"
+            },
+            {
+                "id": "16062975705797",
+                "departmentCode": "MAYK-02",
+                "departmentName": "Phòng ban 2",
+                "createUser": "Admin"
+            },
+            {
+                "id": "Oj5lwHPS03nWWXcxGDZu",
+                "departmentCode": "MAYK-BV",
+                "departmentName": "Phòng Bảo Vệ",
+                "createUser": "Tôi là Quản lý sự cố"
+            },
+            {
+                "id": "L0HtojD6BmnUkkcTEWRk",
+                "departmentCode": "MAYK-PCC",
+                "departmentName": "Phòng Công Chứng",
+                "createUser": "Tôi là Quản lý sự cố"
+            },
+            {
+                "id": "dvYfys0NdPUQn0IorDR5",
+                "departmentCode": "MAY-GD",
+                "departmentName": "Phòng Giao Dịch",
+                "createUser": "Tôi là Quản lý sự cố"
+            },
+            {
+                "id": "IrcL33VVzP00PrAvcJ8B",
+                "departmentCode": "MAYK-TC",
+                "departmentName": "Phòng Tài Chính",
+                "createUser": "Tôi là Quản lý sự cố"
+            },
+            {
+                "id": "gWdW3DHVvHEfw7uKKPAG",
+                "departmentCode": "MAY-XN",
+                "departmentName": "Phòng Xét Nghiệm",
+                "createUser": "Tôi là Quản lý sự cố"
+            },
+            {
+                "id": "lDIP7mhySuEmR12ZqMTz",
+                "departmentCode": "QLHT",
+                "departmentName": "Quản lý hệ thống",
+                "createUser": "Tôi là Quản lý sự cố"
+            }
+        ],
+        "sizeQuerySnapshot": 12
+    }
+}

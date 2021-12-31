@@ -1,0 +1,96 @@
+{
+    "status": true,
+    "code": 200,
+    "data": {
+        "incidentObject": [
+            {
+                "id": "VqYjrNb8MuQgXjtlplXX",
+                "code": "0",
+                "group": "incidentObject",
+                "name": "Người bệnh",
+                "organizationId": null
+            },
+            {
+                "id": "DlfLwXFgtaiw5VPur6Iy",
+                "code": "1",
+                "group": "incidentObject",
+                "name": "Người nhà/khách đến thăm",
+                "organizationId": null
+            },
+            {
+                "id": "YGyi14XFsXLLtCglAlh5",
+                "code": "2",
+                "group": "incidentObject",
+                "name": "Nhân viên y tế",
+                "organizationId": null
+            },
+            {
+                "id": "vbIffqbQGFcfGcPcOYXA",
+                "code": "3",
+                "group": "incidentObject",
+                "name": "Trang thiết bị/cơ sở hạ tầng",
+                "organizationId": null
+            }
+        ],
+        "reportStatus": [
+            {
+                "id": "Ph04nGlItCcFfUqCIho0",
+                "code": "0",
+                "group": "reportStatus",
+                "name": "Mới",
+                "organizationId": null
+            },
+            {
+                "id": "0o3Z7yza1CIwbiuDv8WE",
+                "code": "1",
+                "group": "reportStatus",
+                "name": "Phân tích",
+                "organizationId": null
+            },
+            {
+                "id": "ZE7q3f0fTJvOt12l6DLB",
+                "code": "2",
+                "group": "reportStatus",
+                "name": "Đang xử lý ",
+                "organizationId": null
+            },
+            {
+                "id": "RcATRhDFIGg636H90cUn",
+                "code": "3",
+                "group": "reportStatus",
+                "name": "Đã xử lý",
+                "organizationId": null
+            },
+            {
+                "id": "ktsuWwW8KJBlAto0Ype0",
+                "code": "4",
+                "group": "reportStatus",
+                "name": "Đã huỷ",
+                "organizationId": null
+            },
+            {
+                "id": "furZl20H8ki3womiVZjT",
+                "code": "5",
+                "group": "reportStatus",
+                "name": "Đã đóng",
+                "organizationId": null
+            }
+        ],
+        "reportType": [
+            {
+                "id": "5fPFdaukSdeOQYuzyqka",
+                "code": "0",
+                "group": "reportType",
+                "name": "Tự nguyện",
+                "organizationId": null
+            },
+            {
+                "id": "JdDzQTPgq5kL1bW8F0pV",
+                "code": "1",
+                "group": "reportType",
+                "name": "Bắt buộc",
+                "organizationId": null
+            }
+        ]
+    }
+}
